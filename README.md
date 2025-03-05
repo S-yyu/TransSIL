@@ -1,2 +1,2 @@
 # TransSIL
-TransSIL: A Silhouette Cues-Aware Ecological Social Monitoring System for Fine-Grained Bird Image Classification
+TransSIL: A silhouette cue-aware image classification framework for bird ecological monitoring systems
